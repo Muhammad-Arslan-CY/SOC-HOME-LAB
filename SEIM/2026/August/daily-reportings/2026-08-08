@@ -1,0 +1,20 @@
+# Day 2 — Wazuh Dashboard
+
+**Date:** 2026-08-07
+
+## Completed
+
+* Created a basic personal Wazuh dashboard.
+* Added total event count, alert-level distribution, and alerts-over-time visualizations.
+* Learned the logic behind metrics, aggregations, buckets, filters, Terms, and Date Histograms.
+* Created custom numeric severity ranges.
+
+## Key Learning
+
+Learned to translate a security question into:
+
+**Filter → Bucket → Metric → Visualization**
+
+## Result
+
+Basic dashboard customization and visualization fundamentals understood.
